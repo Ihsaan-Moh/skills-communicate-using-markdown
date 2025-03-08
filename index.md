@@ -9,4 +9,9 @@
 python
 print("hello world")
 ```
+- [ ] Do the dishers
+- [ ] Clean the room
+- [ ] Study phsics
+
+
 
